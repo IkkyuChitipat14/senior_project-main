@@ -1,0 +1,1 @@
+import Image from 'next/image'; // If you see a type error, try: npm install @types/next 
